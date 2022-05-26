@@ -1,6 +1,3 @@
-Author : Matt Lankford
-License : GPL
-
 ABOUT:
 Simple Form To Email is a script that will take any data from an HTML form and send it to a pre-configured email address.
 
@@ -32,6 +29,3 @@ The "Subject" is case sensitive
 You can set the redirect page in a hidden form like the following:
 <input type="hidden" name="Redirect" value="http://mydomain.com/thankyou.html" />
 The "Redirect" is case sensitive
-
-Matt Lankford
-ThePartTimeCTO.com
